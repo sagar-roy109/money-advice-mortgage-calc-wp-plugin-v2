@@ -3,7 +3,7 @@
 Plugin Name: Money Advice Mortagege Calculator
 Plugin URI: https://www.linkedin.com/in/sagar-roy-3445b5119/
 Description: This is a Mortgage Calculator Plugin for Wordpress. Using this calculator you can find monthly repayment and interest rate. 
-Version: 1.1
+Version: 1.0.1
 Author: Sagar Roy
 Author URI: https://www.linkedin.com/in/sagar-roy-3445b5119/
 Text Domian: money_advice

@@ -92,7 +92,7 @@ function showUpperNotice(){
 // Value Check
 
 function maximumValueCheck(){
-    if(upperAvailableDeposit.value > upperPropertyPrice.value ){
+    if(+upperAvailableDeposit.value > +upperPropertyPrice.value ){
         alert(' Deposit Amout must be less then property value');
         nextButton.classList.add('disabled');
     }
