@@ -99,25 +99,7 @@ function money_advice_morgage_custom_assets(){
         plugins_url('style.css',__FILE__),
         "[money_advice_bootstrap, money_advice_slider_css]"
     );
-    
 
-}
-
-
-add_action("wp_enqueue_scripts" , "money_advice_morgage_custom_assets");
-
-
-
-
-
-// Create Shortcodes
-
-
-
-add_shortcode('money_advice_calculator', "money_advice_calculator_shortcode");
-
-function money_advice_calculator_shortcode($params){
-    
        // Jquery
 
     
@@ -157,7 +139,25 @@ function money_advice_calculator_shortcode($params){
 
 
     
+
+}
+
+
+add_action("wp_enqueue_scripts" , "money_advice_morgage_custom_assets");
+
+
+
+
+
+// Create Shortcodes
+
+
+
+add_shortcode('money_advice_calculator', "money_advice_calculator_shortcode");
+
+function money_advice_calculator_shortcode($params){
     
+
     
     
     $values = shortcode_atts(
