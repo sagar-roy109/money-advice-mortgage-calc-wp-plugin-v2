@@ -214,7 +214,7 @@
                                 </div>
                             </div>
                             <div class="col-md-6">
-                                <h4 class="mb-5">Three steps to lower your monthly payments:</h4>
+                                <h4 class="mb-5">Two steps to lower your monthly payments:</h4>
                                 <div class="calculator-steps">
                                     <ol>
                                         <li>
@@ -223,7 +223,9 @@
                                                     Choosing the right type of mortgages that fits your circumstances.
                                                 </b>
                                                 <br>
+                                                <span style="color:red">
                                                 Contact us to get a more tailored solution.
+                                                </span>  
                                                 <!-- <a target="_blank" href="<?php echo $values['first_url'] ?>">Contact us to get a more tailored solution.</a> -->
                                             </p>
                                         </li>
