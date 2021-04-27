@@ -72,7 +72,7 @@
                         <!-- Tabs -->
                         <div class="tab-container d-flex">
                             <a href="#" class="tab active" data-toggle-target=".repayment">Repayment</a>
-                            <a href="#" class="tab" data-toggle-target=".interest">Interest</a>
+                            <a href="#" class="tab" data-toggle-target=".interest">Interest Only</a>
                         </div>
                         <!-- Tab Content -->
                         <div class="tab-content repayment active">
