@@ -164,8 +164,7 @@ function money_advice_calculator_shortcode($params){
 
         array(
             "first_url" => "#",
-            "second_url" => "#",
-            "third_url" => "#"
+            "second_url" => "#"
         ),
         $params,
 

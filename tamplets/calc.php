@@ -214,34 +214,25 @@
                                 </div>
                             </div>
                             <div class="col-md-6">
-                                <h4 class="mb-5">Three steps to lower your monthly paymes:</h4>
+                                <h4 class="mb-5">Three steps to lower your monthly payments:</h4>
                                 <div class="calculator-steps">
                                     <ol>
                                         <li>
                                             <p>
                                                 <b>
-                                                    Choose the right type of mortgage and consider getting an adviser
+                                                    Choosing the right type of mortgages that fits your circumstances.
                                                 </b>
                                                 <br>
-                                                <a target="_blank" href="<?php echo $values['first_url'] ?>">Mortgage advice-should you get a mortgage advisor?</a>
+                                                <a target="_blank" href="<?php echo $values['first_url'] ?>">Contact us to get a more tailored solution.</a>
                                             </p>
                                         </li>
                                         <li>
                                             <p>
                                                 <b>
-                                                    Increase your deposit
+                                                Are you eligible for an affordable housing scheme?
                                                 </b>
                                                 <br>
-                                                <a target="_blank" href="<?php echo $values['second_url'] ?>">How to set a saving goal</a>
-                                            </p>
-                                        </li>
-                                        <li>
-                                            <p>
-                                                <b>
-                                                    Are you eligible for an affordable housing scheme?
-                                                </b>
-                                                <br>
-                                                <a target="_blank" href="<?php echo $values['third_url'] ?>">Government scheme for first time home buyers and existing home owners</a>
+                                                <a target="_blank" href="<?php echo $values['second_url'] ?>">Click here to find out more about the Government scheme.</a>
                                             </p>
                                         </li>
                                     </ol>
