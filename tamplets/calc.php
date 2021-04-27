@@ -223,7 +223,8 @@
                                                     Choosing the right type of mortgages that fits your circumstances.
                                                 </b>
                                                 <br>
-                                                <a target="_blank" href="<?php echo $values['first_url'] ?>">Contact us to get a more tailored solution.</a>
+                                                Contact us to get a more tailored solution.
+                                                <!-- <a target="_blank" href="<?php echo $values['first_url'] ?>">Contact us to get a more tailored solution.</a> -->
                                             </p>
                                         </li>
                                         <li>
